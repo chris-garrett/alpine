@@ -3,7 +3,7 @@
 * Base image using Apline
 
 ## Versions
-- Alpine ${GO_VERSION}
+- Alpine ${VERSION}
 
 ## Usage
 

@@ -3,7 +3,7 @@
 * Base image using Apline
 
 ## Versions
-- Alpine 
+- Alpine 3.4
 
 ## Usage
 
